@@ -25,9 +25,9 @@ import { CadastrarComponent } from './cadastrar/cadastrar.component';
       InicioComponent,
 
       EntrarComponent,
-      CadastrarComponent
+      CadastrarComponent,
 
-=======
+
 
     MenuComponent,
   ],
