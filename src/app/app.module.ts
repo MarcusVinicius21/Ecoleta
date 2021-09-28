@@ -8,12 +8,26 @@ import { RodapeComponent } from './rodape/rodape.component';
 
 import { MenuComponent } from './menu/menu.component';
 
+import { InicioComponent } from './inicio/inicio.component';
+import { EntrarComponent } from './entrar/entrar.component';
+import { CadastrarComponent } from './cadastrar/cadastrar.component';
+
+
 
 @NgModule({
   declarations: [
     AppComponent,
 
     RodapeComponent,
+
+    MenuComponent,
+
+      InicioComponent,
+
+      EntrarComponent,
+      CadastrarComponent
+
+=======
 
     MenuComponent,
   ],
